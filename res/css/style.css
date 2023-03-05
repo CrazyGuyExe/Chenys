@@ -1,0 +1,297 @@
+#logo{
+    position: absolute;
+    width: 30%;
+    margin-left: 3%;
+    margin-top: 20vh;
+}
+#gud{
+    position: absolute;
+    margin-left: 50vw;
+    margin-top: 18vh;
+    width: 800px;
+}
+#playB{
+    position: absolute;
+    width: 25%;
+    margin-left: 5%;
+    margin-top: 55vh;
+}
+
+#Lore{
+    background-color: bisque;
+    width: 40vw;
+    height: 90vh;
+    margin-left: 28vw;
+    margin-top: 8vh;
+    display: none;
+    border: solid 0.5vh;
+    border-radius: 1vh;
+}
+
+#nadpisL{
+    text-align: center;
+    background-color: bisque;
+    font-size: 40px;
+    border: solid 0.5vh;
+    height: 5vh;
+    width: 7vw;
+    margin-left: 16vw;
+    margin-top: -3vh;
+    position: absolute;
+    
+}
+
+#cont1{
+    background-color: bisque;
+    background: linear-gradient(bisque, yellow);
+    border: solid 0.5vh;
+    height: 4vh;
+    margin-top: 85vh;
+    margin-left: 18vw;
+    text-align: center;
+    position: absolute;
+
+}
+
+#text{
+    font-size: 25px;
+    text-align: center;
+    width: 90%;
+    margin-left:1.8vw;
+    margin-top: 5vh;
+}
+
+#Rozoh{
+    background-color: bisque;
+    font-size: 40px;
+    width: 20vw;
+    text-align: center;
+    border: solid 0.5vh;
+    border-radius: 2vh;
+    margin-left: 39%;
+    margin-top: 15%;
+    position: absolute;
+
+}
+
+#yesB{
+    background-color: bisque;
+    margin-left:39vw ;
+    margin-top: 20%;
+    width: 10%;
+
+}
+
+#noB{
+    background-color: bisque;
+    width: 10%;
+    height: 10%;
+    margin-top: 20%;
+
+}
+
+#choice{
+    display: none;
+}
+
+#start{
+    font-size: 50px;
+    color: white;
+    display: none;
+    margin-left: 5vw;
+}
+
+#days{
+    background-color: bisque;
+    width: 6vw;
+    height: 10vh;
+    border-radius: 2vw;
+    text-align: center;
+    padding-top: 1vh;
+    font-size: 20px;
+    border: solid 0.3vw;
+    margin-left: 90%;
+    display: none;
+}
+
+#orderb{
+    width: 10%;
+    position: absolute;
+    margin-top: 89vh;
+    margin-left: 20vw;
+    display: none;
+}
+
+#grillb{
+    width: 10%;
+    position: absolute;
+    margin-top: 90vh;
+    margin-left: 40vw;
+    display: none;
+}
+
+#buildb{
+    width: 10%;
+    position: absolute;
+    margin-top: 90vh;
+    margin-left: 60vw;
+    display: none;
+}
+
+#obj{
+    display: none;
+    position: absolute;
+    background-color: bisque;
+    margin-left: 93.5vw;
+}
+
+#nl{
+    display: none;
+    background-color: bisque;
+    margin-left: 37vw;
+    margin-top: 80vh;
+    display: none;
+}
+
+#countPala{
+    display:none;
+    background-color: bisque;
+    width: 30%;
+    font-size: 20px;
+    margin-left: 10vw;
+    text-align: center;
+    padding-left: 20vw;
+    display: none;
+
+}
+
+#np{
+    display: none;
+    margin-top: -30vh;
+    width: 10% ;
+    margin-left: 47vw;
+}
+
+#dp{
+    display:none;
+    margin-top: -30vh;
+    width: 10%;
+    margin-left: 47vw;
+}
+
+#nn{
+    display: none;
+    width: 15%;
+    margin-left: 70vw;
+    margin-top: 70vh;
+}
+
+#mm{
+    display: none;
+    width: 20%;
+    margin-left: 42.5vw;
+    margin-top: -21vh;
+}
+
+#boru{
+    display: none;
+    position: absolute;
+    margin-top: -22vh;
+    margin-left: 45vw;
+    width: 15%;
+    z-index: 1;
+}
+
+#borat{
+    display: none;
+    position: absolute;
+    margin-top: -22vh;
+    margin-left: 45vw;
+    width: 15%;
+    z-index: 2;
+}
+
+#javo{
+    display: none;
+    position: absolute;
+    margin-top: -22vh;
+    margin-left: 45vw;
+    width: 15%;
+    z-index: 1;
+}
+
+#mslo{
+    display:none;
+    position: absolute;
+    margin-top: -22vh;
+    margin-left: 45vw;
+    width: 10%;
+    z-index: 2;
+}
+
+#prb{
+    display:none;
+    position: absolute;
+    background-color: bisque;
+    margin-left: 30vw;
+    margin-top: -60vh;
+}
+
+#prm{
+    display: none;
+    position: absolute;
+    background-color: bisque;
+    margin-left: 73vw;
+    margin-top: -60vh;
+}
+
+#prbs{
+    display: none;
+    position: absolute;
+    background-color: bisque;
+    margin-left: 28.5vw;
+    margin-top: -75vh;
+
+}
+
+#prjs{
+    display: none;
+    position: absolute;
+    background-color: bisque;
+    margin-left: 71vw;
+    margin-top: -75vh;
+}
+
+#meni{
+    display: none;
+    height: 30vh;
+    width: 10vw;
+    background-color: bisque;
+    text-align: center;
+    padding-left: 3.5%;
+    padding-top: 8%;
+
+}
+
+#menic{
+    height: 50vh;
+    width: 50vw;
+    background-color: bisque;
+    border: solid 0.3vh;
+    display: none;
+    margin-left: 10vw;
+    margin-top: -30vh;
+}
+
+#taxt{
+    font-size: 50px;
+}
+
+#finish{
+    background-color: green;
+    color: aliceblue;
+    position: absolute;
+    height: 10vh;
+    width: 10vw;
+    display: none;
+}
